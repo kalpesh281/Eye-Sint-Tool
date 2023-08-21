@@ -1,0 +1,5 @@
+pyOpenSSL
+json2html
+ipwhois
+lxml
+tldextract
